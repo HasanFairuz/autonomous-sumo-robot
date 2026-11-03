@@ -1,0 +1,20 @@
+# Build outputs and temporary editor files
+*.exe
+*.obj
+*.o
+*.tmp
+*.bak
+*~
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Local ROBOTC workspace output
+*.rxe
+*.elf
+*.map
+
+# Private academic records and submissions
+*student-id*
+*student_number*
